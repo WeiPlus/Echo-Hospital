@@ -1,10 +1,11 @@
 #Credits(Anthor)
 
-|:Name:|:Type:|
-——————————————-
-|:WeiPlus:|:Mod Anthor:|
-|:MCreator:|:Made Tool:|
-|:HU:|:Try:|
-|:HMCL:|:Try Launcher:|
+|Name|Type|
+|—————————————|
+|WeiPlus|ModAnthor|
+|MCreator|MadeTool|
+|HU|Try|
+|HMCL|TryLauncher|
+
 
 Thanks!
