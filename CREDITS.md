@@ -1,11 +1,12 @@
-#Credits(Anthor)
+# Credits (Author)
 
-|Name|Type|
-|—————————————|
-|WeiPlus|ModAnthor|
-|MCreator|MadeTool|
-|HU|Try|
-|HMCL|TryLauncher|
+| Name | Type |
+| ---- | ---- |
+| WeiPlus | ModAuthor |
+| MCreator | MadeTool |
+| HU | Try |
+| HMCL | TryLauncher |
 
+---
 
-Thanks!
+## Thanks!
