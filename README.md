@@ -5,6 +5,8 @@ A horror dimension mod for Minecraft. Enter the Echo Hospital — a nightmarish 
 ![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen)
 ![Forge](https://img.shields.io/badge/Loader-Forge-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
+![code](https://img.shields.io/badge/Code-GitHub-red?logo=github)
+
 
 ## About
 
